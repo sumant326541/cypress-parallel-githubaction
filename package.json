@@ -1,0 +1,15 @@
+{
+  "name": "cypress-parrallel-githubaction",
+  "version": "1.0.0",
+  "description": "parralel execution with github action using cypress cloud dashbord",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "author": "Sumant Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.4"
+  }
+}
